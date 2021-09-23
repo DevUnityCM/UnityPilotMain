@@ -679,6 +679,12 @@
     <Reference Include="UnityEditor.UI">
       <HintPath>D:/004_SW_Proj/002SW_Projects/UnityPilotMain/Pilot/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
+    <Reference Include="Cinemachine">
+      <HintPath>D:/004_SW_Proj/002SW_Projects/UnityPilotMain/Pilot/Library/ScriptAssemblies/Cinemachine.dll</HintPath>
+    </Reference>
+    <Reference Include="com.unity.cinemachine.editor">
+      <HintPath>D:/004_SW_Proj/002SW_Projects/UnityPilotMain/Pilot/Library/ScriptAssemblies/com.unity.cinemachine.editor.dll</HintPath>
+    </Reference>
   </ItemGroup>
   <ItemGroup></ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

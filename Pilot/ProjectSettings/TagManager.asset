@@ -5,6 +5,7 @@ TagManager:
   serializedVersion: 2
   tags:
   - New tag
+  - Coins
   layers:
   - Default
   - TransparentFX
@@ -47,6 +48,9 @@ TagManager:
     locked: 0
   - name: PlayerLayer
     uniqueID: 2160264087
+    locked: 0
+  - name: CameraLayer
+    uniqueID: 2052496113
     locked: 0
   - name: Default
     uniqueID: 0
